@@ -6,23 +6,27 @@
 
 
 - [Geospatial Risk Prediction of Heroin Overdose Hotspots in Cincinnati Ohio](https://echinlee.github.io/Public-Policy-Analysis/01-Cincinnati-Heroin-Overdose.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/final1.jpg?raw=true"/>
+<img src="images/final2.jpg?raw=true"/>
 
 ---
 - [Philadelphia Home Price Prediction with Geospatial Machine Learning](https://echinlee.github.io/Public-Policy-Analysis/Midterm.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mid1.jpg?raw=true"/>
+<img src="images/mid2.jpg?raw=true"/>
 
 ---
 - [Predictive Policing: Robbery Prediction Model in Chicago](https://echinlee.github.io/Public-Policy-Analysis/HW4.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hw41.jpg?raw=true"/>
+<img src="images/hw42.jpg?raw=true"/>
 
 ---
 - [Targeting A Housing Subsidy](https://echinlee.github.io/Public-Policy-Analysis/HW5.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hw5.jpg?raw=true"/>
 
 ---
 - [Bike Share Prediction]([http://example.com/](https://echinlee.github.io/Public-Policy-Analysis/HW6.html))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hw61.jpg?raw=true"/>
+<img src="images/hw62.jpg?raw=true"/>
 
 ---
 
