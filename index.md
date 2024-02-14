@@ -31,14 +31,15 @@
 
 ---
 - [Transit-Oriented Development]([http://example.com/](https://echinlee.github.io/Public-Policy-Analysis/HW2.html))
-<img src="images/hw61.jpg?raw=true"/>
+<img src="images/hw2.jpg?raw=true"/>
 
 ---
 
 #### Quantitative Planning Analysis Method
 
-- [final]([http://example.com/](https://echinlee.github.io/Public-Policy-Analysis/HW2.html))
-<img src="images/hw61.jpg?raw=true"/>
+- [Cedar Park Existing Condition Report](https://echinlee.github.io/OtherHomework/QuantFinal.pdf)
+<img src="images/quant1.jpg?raw=true"/>
+<img src="images/quant2.jpg?raw=true"/>
 
 ---
 
