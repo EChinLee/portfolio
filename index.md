@@ -28,7 +28,7 @@
 
 ### Undergraduate Research
 
-- [Research on the Relationship Between Wayfinding Behavior and Performance Based on Spatial Morphology: Taking Terminal 3 of Beijing International Airport as an Example]
+- [Research on the Relationship Between Wayfinding Behavior and Performance Based on Spatial Morphology: Taking Terminal 3 of Beijing International Airport as an Example](https://echinlee.github.io/OtherHomework/undergraduatethesis.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
   
 - [Project 2 Title](http://example.com/)
