@@ -37,7 +37,7 @@
 
 #### Quantitative Planning Analysis Method
 
-- [final]([http://example.com/](https://echinlee.github.io/Public-Policy-Analysis/HW2.html))
+- [final](https://echinlee.github.io/OtherHomework/QuantFinal.pdf)
 <img src="images/quant1.jpg?raw=true"/>
 <img src="images/quant2.jpg?raw=true"/>
 
