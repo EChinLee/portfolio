@@ -18,9 +18,11 @@
 
 ---
 
-### Category Name 2
+### Undergraduate Research
 
-- [Project 1 Title](http://example.com/)
+- [Research on the Relationship Between Wayfinding Behavior and Performance Based on Spatial Morphology: Taking Terminal 3 of Beijing International Airport as an Example]
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+  
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
