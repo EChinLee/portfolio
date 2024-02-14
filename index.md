@@ -29,10 +29,10 @@
 ### Undergraduate Research
 
 - [Research on the Relationship Between Wayfinding Behavior and Performance Based on Spatial Morphology: Taking Terminal 3 of Beijing International Airport as an Example](https://echinlee.github.io/OtherHomework/undergraduatethesis.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/undgradthesis.png?raw=true"/>
   
 - [Quantitative Study on Children's Perceptions of Safety and Anxiety in Street Spaces for Learning Routes Based on Virtual Reality](https://echinlee.github.io/OtherHomework/undergraduateresearch.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/undgradres.png?raw=true"/>
 
 ---
 
