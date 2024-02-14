@@ -1,16 +1,16 @@
 title: E Chin Li # your name (or website title) here
-logo: "/images/MyPhoto.jpg" # your photo (or logo) here
+logo: "/images/MyPhoto.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  Master of City Planning, University of Pennsylvania, US, 2025
+  Master of City Planning, University of Pennsylvania, 2025
   <br><br>
-  Bachelor of Human Geography and Urban Planning, Peking University, China, 2023
+  Bachelor of Human Geography and Urban Planning, Peking University, 2023
   <br><br>
   Interest Area: Transportation Planning, Data Analysis, Environmental Psychology
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/e-chin-li-a05798299/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
