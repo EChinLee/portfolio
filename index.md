@@ -2,19 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Public Policy Analysis
 
-<img src="images/anya.jpeg"/>
 
-[Project 1 Title](/sample_page)
+[Predictive Policing: Robbery Prediction Model in Chicago](https://echinlee.github.io/Public-Policy-Analysis/HW4.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Targeting A Housing Subsidy](https://echinlee.github.io/Public-Policy-Analysis/HW5.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Bike Share Prediction]([http://example.com/](https://echinlee.github.io/Public-Policy-Analysis/HW6.html))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
