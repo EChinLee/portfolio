@@ -25,12 +25,12 @@
 <img src="images/hw5.jpg?raw=true"/>
 
 ---
-- [Bike Share Prediction]([http://example.com/](https://echinlee.github.io/Public-Policy-Analysis/HW6.html))
+- [Bike Share Prediction](https://echinlee.github.io/Public-Policy-Analysis/HW6.html)
 <img src="images/hw61.jpg?raw=true"/>
 <img src="images/hw62.jpg?raw=true"/>
 
 ---
-- [Transit-Oriented Development]([http://example.com/](https://echinlee.github.io/Public-Policy-Analysis/HW2.html))
+- [Transit-Oriented Development](https://echinlee.github.io/Public-Policy-Analysis/HW2.html)
 <img src="images/hw2.jpg?raw=true"/>
 
 ---
